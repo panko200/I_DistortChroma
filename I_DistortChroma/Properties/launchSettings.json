@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "I_DistortChroma": {
+      "commandName": "Project"
+    },
+    "プロファイル 1": {
+      "commandName": "Executable",
+      "executablePath": "K:\\開発用YMM4\\YukkuriMovieMaker_v4_Lite\\YukkuriMovieMaker.exe"
+    }
+  }
+}
